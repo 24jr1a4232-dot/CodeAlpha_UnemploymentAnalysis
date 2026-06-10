@@ -39,7 +39,8 @@ The analysis shows clear variations in unemployment rates over time, especially 
 ---
 
 **📸visualizations**
-<img width="1528" height="770" alt="Screenshot 2026-06-10 220146" src="https://github.com/user-attachments/assets/e01192f5-80e6-4883-a0fe-bd30ebd30fe7" />
+
+<img width="1540" height="678" alt="Screenshot 2026-06-10 220934" src="https://github.com/user-attachments/assets/aa769871-66dd-4b6a-94dd-547eb8f7efca" />
 
 <img width="1452" height="824" alt="Screenshot 2026-06-10 220158" src="https://github.com/user-attachments/assets/a4c3d741-c41e-467b-b1a6-7e0ee400dc35" />
 
